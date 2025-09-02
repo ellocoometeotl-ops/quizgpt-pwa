@@ -1,0 +1,44 @@
+cuerpo {
+ font-familia: Arial, sans-serif; 
+ fondo-color: #f3f4f6; 
+ color: #111827; 
+ Mostrar: Flex; 
+ flex-dirección: columna; 
+ Aline-items: centro; 
+ Justify-Content: Flex-Start; 
+ Relleno: 20px; 
+}
+
+#app {
+ ancho máximo: 500px; 
+ Anchura: 100%; 
+ fondo-color: #ffff; 
+ Border-Radius: 15px; 
+ Sombra de Caja: 0 4px 10px rgba (0,0,0,0.1); 
+ Relleno: 20px; 
+}
+
+H1 {
+   color: #1d4ed8; 
+ text-align: centro; 
+}
+
+botón {
+ fondo-color: #1d4ed8; 
+ color: blanco; 
+ Frontera: Ninguna; 
+ Border-Radius: 8px; 
+ Relleno: 10px 20px; 
+ Margen: 5px; 
+ cursor: puntero; 
+ Tamaño de fuente: 16px; 
+}
+
+Botón:hover {
+ fondo-color: #2563eb; 
+}
+
+#feedback {
+ Margen-top: 10px; 
+ peso de fuente: negrita; 
+}
